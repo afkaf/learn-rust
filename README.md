@@ -7,11 +7,11 @@ A comprehensive and structured lesson plan covering all key aspects of Rust prog
 ## Table of Contents
 
 ### Chapter 1: Introduction to Rust
-- [1.1. What is Rust?](Link)
-- [1.2. Why Rust? - Safety, Speed, and Concurrency](Link)
-- [1.3. Installing Rust and Setting up the Environment](Link)
-- [1.4. Hello World: Your First Rust Program](Link)
-- [1.5. Understanding the Rust Compiler and Toolchain](Link)
+- [1.1. What is Rust?](Chapter_1/1_1.md)
+- [1.2. Why Rust? - Safety, Speed, and Concurrency](Chapter_1/1_2.md)
+- [1.3. Installing Rust and Setting up the Environment](Chapter_1/1_3.md)
+- [1.4. Hello World: Your First Rust Program](Chapter_1/1_4.md)
+- [1.5. Understanding the Rust Compiler and Toolchain](Chapter_1/1_5.md)
 
 ### Chapter 2: Basics of Rust
 - [2.1. Basic Syntax and Keywords](Link)
