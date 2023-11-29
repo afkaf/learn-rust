@@ -1,6 +1,8 @@
-# Master Rust: From Basics to Advanced
+# Learn Rust: From Basics to Advanced
 
 A comprehensive and structured lesson plan covering all key aspects of Rust programming, from introductory concepts to advanced features and real-world applications. Perfect for learners aiming to fully understand and excel in Rust.
+
+**This is a work in progress and new content will be added over time.**
 
 ## Table of Contents
 
